@@ -1,0 +1,6 @@
+Hello, world. This is the beginning of my epic programming journey.
+I will be keeping important dates here that mark my accomplishments and beginnings.
+
+Mar 3, 2022 -- I started my programming journey with The Odin Project.
+Mar 7, 2022 -- I learned about how the Internet & the Web works.
+Mar 8, 2022 -- I learned created my first repository on GitHub.
